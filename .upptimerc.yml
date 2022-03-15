@@ -5,7 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: API
     url: https://enterprise.api.trato.io/health
-
+assignees: # Users to assign downtime issues (optional)
+  - gerardorochin
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
