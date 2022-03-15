@@ -13,9 +13,9 @@ status-website:
   cname: status.trato.io
   # baseUrl: /your-repo-name
   logoUrl: https://starter.trato.io/static/media/logo.9268a325.svg
-  name: TRATO
-  introTitle: "**TRATO** estado de nuestros servicios."
-  introMessage: Página de estado que utiliza **Datos en tiempo real** de nuestra infraestructura, aquí encontrarás el estado operacional nuestros servicios.
+  name: ""
+  introTitle: "**Estado** de nuestros servicios."
+  introMessage: Página de estado que utiliza datos en tiempo real de nuestra infraestructura, aquí encontrarás el estado operacional nuestros servicios.
   navbar:
     - title: Status
       href: /
