@@ -23,6 +23,7 @@ status-website:
       href: https://trato.io
     - title: Blog
       href: https://blog.trato.io
-
+i18n:
+  footer: ""
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
