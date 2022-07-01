@@ -4,17 +4,19 @@
     "url": "https://enterprise.api.trato.io/health",
     "icon": "https://favicons.githubusercontent.com/enterprise.api.trato.io",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 51,
-    "timeWeek": 231,
-    "timeMonth": 231,
+    "timeDay": 192,
+    "timeWeek": 244,
+    "timeMonth": 234,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   }
 ]
