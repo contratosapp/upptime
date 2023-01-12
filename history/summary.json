@@ -4,7 +4,7 @@
     "url": "https://enterprise.api.trato.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/enterprise.api.trato.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 205,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2023-01-12": 0,
       "2022-08-04": 17,
       "2022-07-01": 16
     }
