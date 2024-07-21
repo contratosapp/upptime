@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/enterprise.api.trato.io.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 274,
-    "timeWeek": 259,
-    "timeMonth": 394,
-    "timeYear": 284,
+    "timeDay": 152,
+    "timeWeek": 237,
+    "timeMonth": 392,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   }
 ]
