@@ -1,7 +1,7 @@
 url: https://enterprise.api.trato.io/health
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2024-10-18T23:01:02.740Z
+status: down
+code: 503
+responseTime: 355
+lastUpdated: 2024-10-19T04:21:12.708Z
 startTime: 2022-03-15T21:28:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
