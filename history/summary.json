@@ -6,15 +6,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 277,
-    "timeWeek": 262,
-    "timeMonth": 288,
-    "timeYear": 301,
+    "timeWeek": 264,
+    "timeMonth": 289,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2025-02-27": 20
     }
