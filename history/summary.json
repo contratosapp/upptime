@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enterprise.api.trato.io.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
     "time": 248,
     "timeDay": 257,
     "timeWeek": 276,
@@ -19,7 +19,8 @@
       "2025-08-26": 7,
       "2026-01-29": 21,
       "2026-04-30": 37,
-      "2026-06-07": 33
+      "2026-06-07": 33,
+      "2026-07-27": 67
     }
   },
   {
